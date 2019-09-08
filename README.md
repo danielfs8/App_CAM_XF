@@ -1,4 +1,4 @@
-# App_CAM_XF
+# Usando a câmera com Xamarin Forms
 
 Exemplo simples de como usar a Câmera com Xamarin Forms e o plugin Xam.Plugin.Media
 
